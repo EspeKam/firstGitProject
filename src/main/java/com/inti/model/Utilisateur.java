@@ -5,6 +5,7 @@ public class Utilisateur {
 	private Long idUtilisateur;
 	private String nomUtilisateur;
 	private String prenomUtilisateur;
+
 	private String login;
 	
 	public Utilisateur() {
